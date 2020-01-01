@@ -7,7 +7,7 @@ import ExpenseDashboardPage from '../components/ExpenseDashboardPage';
 import HelpPage from '../components/HelpPage';
 import NotFoundPage from '../components/NotFoundPage';
 import LoginPage from '../components/LoginPage';
-import PrivateRoute from './PrivateRouter';
+import PrivateRoute from './PrivateRoute';
 
 export const history = createHistory();
 
